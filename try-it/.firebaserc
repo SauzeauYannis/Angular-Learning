@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "cli-web-app": {
+      "hosting": {
+        "try-it": [
+          "cli-web-app"
+        ]
+      }
+    }
+  }
+}
